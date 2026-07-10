@@ -1,4 +1,4 @@
-# Workblox
+# Workblox [in-development]
 > The all-in-one workspace for work and study.
 
 Workblox is an intended open-source project designed for modern students, professional, and executives solutions. Its approach will combining features for automations, knowledge and organization managment in a single platform.
